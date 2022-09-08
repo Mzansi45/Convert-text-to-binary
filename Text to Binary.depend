@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1640716388 source:c:\users\thulani\onedrive\documents\c++ functions\text to binary\convert.cpp
+	"convert.h"
+
+1640716556 c:\users\thulani\onedrive\documents\c++ functions\text to binary\convert.h
+	<iostream>
+	<sstream>
+	<vector>
+
+1640716556 source:c:\users\thulani\onedrive\documents\c++ functions\text to binary\main.cpp
+	<iostream>
+	<sstream>
+	<cstring>
+	<string>
+	"convert.h"
+	<sstream>
+
